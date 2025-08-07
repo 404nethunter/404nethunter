@@ -1,4 +1,4 @@
-<kbd>$ cat README.md</kbd>
+<kbd>$ uwu README.md</kbd>
 
 ---
 
@@ -8,10 +8,10 @@
     </a>
     &nbsp;
     <a href="https://pronoundb.org/">
-        <img src="https://img.shields.io/endpoint?url=https%3A%2F%2Fpronoundb.org%2Fshields%2F614b68364828524b8a3a121f&style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
+        <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/019884f5-b43e-743e-ba6f-78ac5f4af089.json&style=for-the-badge&labelColor=%231e1e2e&color=%23cba6f7">
     </a>
     &nbsp;
-    <img src="https://img.shields.io/badge/age-15-cba6f7?style=for-the-badge&labelColor=1e1e2e">
+    <img src="https://img.shields.io/badge/age-17-cba6f7?style=for-the-badge&labelColor=1e1e2e">
 </div>
 
 <div align="center">
